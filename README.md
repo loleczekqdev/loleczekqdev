@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loleczekqdev
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on DropBox :D
+- 💞️ I’m looking to collaborate on ... :D
 - 📫 How to reach me:
 Discord: loleczekq#1234
 
