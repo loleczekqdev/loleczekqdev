@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @loleczekqdev
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
-- 💞️ I work with the Creeper Client :D
+- 👀 I’m a beginner go programmer
+- 🌱 I’m currently learning web dev
 - 📫 How to reach me:
-Discord: loleczekq#1234
+Discord: casualvoid
 
 <!---
 loleczekqdev/loleczekqdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
